@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice</dc:identifier>
 		<dc:date>2022-02-15T19:00:28Z</dc:date>
@@ -46,12 +46,12 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The young venetian noble Bassanio seeks to woo the beautiful heiress Portia of Belmont. He turns to his friend, a merchant named Antonio, who agrees to help him financially. They go to a Jewish moneylender, Shylock, who agrees to lend the money—but because of their mutual animosity, Shylock demands “A pound of flesh” from Antonio as collateral.&lt;/p&gt;
 			&lt;p&gt;Bassanio succeeds in winning Portia’s hand. Meanwhile, Antonio’s ships are reported lost at sea, and he defaults on the loan. Bassanio rushes back to Venice to help his benefactor where everything comes to a head in Court.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/merchant/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
