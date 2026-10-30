@@ -67,7 +67,7 @@
 		<link href="https://id.loc.gov/authorities/names/n78095332.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Canaletto</dc:contributor>
-		<meta property="file-as" refines="#artist">Canal, Giovanni Antonio</meta>
+		<meta property="file-as" refines="#artist">Canaletto</meta>
 		<meta property="schema:alternateName" refines="#artist">Giovanni Antonio Canal</meta>
 		<link href="https://en.wikipedia.org/wiki/Canaletto" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79065963.html" refines="#artist" rel="schema:sameAs"/>
